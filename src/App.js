@@ -9,8 +9,9 @@ function App() {
         <p>
           github 배포 <code>src/App.js</code> 테스트입니다.
         </p>
+          <span>
          test deployment react project
-        </a>
+         </span>
       </header>
     </div>
   );
